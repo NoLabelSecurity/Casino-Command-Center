@@ -1,0 +1,8 @@
+{
+  "name": "Casino Command Center",
+  "description": "A centralized dashboard for managing multiple social casino accounts, tracking daily bonuses, balances, redemptions, and playthrough requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
