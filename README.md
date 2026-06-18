@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
+<h1 align="center">🎰 Casino Command Center</h1>
 
-This contains everything you need to run your app locally.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/NoLabelSecurity/Casino-Command-Center/main/assets/.aistudio/Casino%20Command%20Center.png"
+    alt="Casino Command Center Dashboard"
+    width="100%"
+  />
+</p>
 
-View your app in AI Studio: https://ai.studio/apps/f7c341cd-7366-4229-acbb-f84a08d4cf08
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
